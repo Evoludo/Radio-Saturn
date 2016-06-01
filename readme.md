@@ -1,6 +1,4 @@
-Radio Saturn Scripts
-v2.6
-by Andrew Bell
+# Radio Saturn Scripts
 
 Scripts to stream Radio Saturn: sound from Spotify via pulseaudio, visuals from Goom via Gstreamer. Much hacked together. Originally a one-liner. Grew legs.
 
